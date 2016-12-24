@@ -1,0 +1,28 @@
+#img a img {
+    display: block;
+    margin: auto;
+}
+
+#search-bar {
+    display: block;
+    margin: 20px 28%;
+    padding: 20px 10px;
+    border: 1px solid grey;
+    
+}
+
+.buttons div{
+    display: block;
+    text-align: center;
+    margin: 10% 45%;
+    padding: 10px;
+    border: 1px solid grey;
+}
+
+#btn1 {
+    float: left;
+}
+
+#btn2 {
+    margin: 0% 20%;
+}
